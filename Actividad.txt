@@ -1,0 +1,131 @@
+﻿Actividades capítulo 1 y 2 CCNA1 http://www.unicauca.edu.co/portaleningles/sites/default/files/escudo-unicauca_3.jpg 
+
+
+UNIVERSIDAD DEL CAUCA
+
+
+FECHA:08/02/2024
+NOMBRE: Jhojana Villota
+CÓDIGO SIMCA: 
+
+
+1. Leer los capítulos 1 y 2 del curso de Cisco.
+2. Responder las preguntas de la lectura y enviarlas en PDF.
+
+
+Preguntas de lectura: Capítulo 1
+1. Listar al menos 5 actividades cotidianas que realiza usted utilizando internet.
+* Comunicación por mensajería instantánea
+* Entretenimiento(peliculas, musica)
+* Llamadas telefónicas
+* Descargar información
+* Enviar correos electrónicos
+
+
+2. Describir los factores que afectan la calidad de las comunicaciones.
+* Factores internos: Están relacionados con la naturaleza del
+mensaje. Por ejemplo, el tamaño del mensaje, complejidad e importancia.
+* Factores externos: Están relacionados con la complejidad de la red y el número de dispositivos que debe atravesar un mensaje para llegar al destino final. Por ejemplo, calidad de ruta, las veces que debe cambiar el mensaje, entre otros.
+
+
+3. Identificar los componentes clave de cualquier red de datos y describir su funcionamiento.
+* Dispositivos finales: Son los que envían y reciben el mensaje.
+* Protocolos
+* Datos: Es el mensaje.
+4. Responda con sus propias palabras:
+1. ¿Qué son los datos? 
+* Es el mensaje que se envía
+2. ¿Qué es una red de datos? 
+* Es la estructura que permite la comunicación de un dispositivo a otro.
+3. ¿Qué entiende por arquitectura de red?
+* Es la estructura de componentes físicos que permite la comunicación
+4. ¿Qué es una red convergente?
+* Son las que permiten enviar un mensaje, hacer una llamada, videos.
+5. Describir las características de las arquitecturas de red
+1. Tolerante a fallas, 
+* sigue funcionando a pesar de algún fallo en la red. 
+2. Escalabilidad, 
+* Que la red puede crecer sin afectar su rendimiento
+3. Calidad del servicio 
+* proporciona un nivel aceptable de tolerancia a fallas y escalabilidad para sus usuarios.
+4. Seguridad. Mostrar sus respectivos ejemplos. 
+6. Investigar qué son las redes orientadas y no orientadas a la conexión.
+* Las redes no orientadas a la conexión significa una comunicación entre dos puntos finales de una red en los que un mensaje puede ser enviado desde un punto final a otro sin acuerdo previo. Por otro lado, las redes orientadas a la conexión identifican el flujo de tráfico con un identificador de conexión en lugar de utilizar explícitamente las direcciones de la fuente y el destino.
+7. Describa que es la calidad del servicio y que se necesita para mantener una buena calidad de servicio para las aplicaciones que lo requieren.
+* Una buena calidad del servicio sería cuando nos proporcionan un nivel aceptable de tolerancia a fallas y escalabilidad para sus usuarios.
+8. ¿Por qué importa la calidad del servicio en una red de datos?
+* porque garantiza que las prioridades coinciden con el tipo de comunicación y su importancia para la organización. 
+9. Investiga sobre qué son los proveedores de Internet de Nivel-1 (Tier-1) y Nivel-2 (Tier-2), y cómo se diferencian en términos de infraestructura, alcance y relaciones comerciales.
+* 10. Identifica al menos tres proveedores de Internet de nivel mundial y clasifícalos en Nivel-1 (Tier-1) o Nivel-2 (Tier-2) según su posición en la jerarquía de la red. Identifica al menos 2 proveedores de internet en Colombia.
+Nivel 1                                       Nivel 2
+* Movistar                               - Mediacom
+* Claro                                      - Frontier
+* DirecTV                                 - Cox
+* AT&T
+* Xfinity
+11. Investiga sobre la importancia de los proveedores de Internet de Nivel-1 y Nivel-2 en la conectividad global, incluyendo su papel en la transmisión de datos a través de Internet. 
+* Es una herramienta competitiva en el mundo empresarial; puesto que, añade valor que favorece la diferenciación y la rentabilidad de un negocio.
+12. Reflexiona sobre el papel crucial de los proveedores de Internet en la infraestructura digital global y cómo su gestión y regulación pueden impactar en la equidad y la eficiencia del acceso a Internet.
+
+
+* Tomando en cuenta la experticia requerida para lograr cubrir eficazmente estas demandas del mercado, esto puede representar más una desventaja competitiva para las empresas, que una oportunidad de negocio. Por esta razón, actualmente vemos que la pauta para competir en el dinámico entorno empresarial a nivel mundial, es tercerizar aspectos que impactan directamente sobre la oferta de valor al cliente.
+
+
+
+
+
+
+Preguntas de lectura: Capítulo 2
+1. Describir la estructura de una red, incluidos los dispositivos, medios y servicios necesarios para lograr comunicaciones exitosas. 
+* Dispositivos y medios: son los elementos físicos o hardware de la red, servicios: son los programas de comunicación, denominados software, que se ejecutan en los dispositivos conectados a la red.
+2. Comparar y contrastar los siguientes términos: RED, LAN, WAN, INTERNETWORK E INTERNET.
+* RED: Es la interconexión física o inalámbrica que vincula varios dispositivos informáticos (servidores, computadoras, teléfonos móviles, periféricos, entre otros) para que se comuniquen entre sí, con la finalidad de compartir datos y ofrecer servicios. 
+* LAN: conecta equipos informáticos ubicados en un área geográfica reducida, como un edificio o una habitación.
+* WAN: son redes informáticas LAN y MAN interconectadas entre sí. Sus nodos están separados por distancias que pueden abarcar continentes enteros. Los integrantes de esas redes no necesariamente están conectados físicamente 
+* Internet: red global de redes de ordenadores cuya finalidad es permitir el intercambio libre de información entre todos sus usuarios.
+* Internetwork: Es la interconectividad de redes es la capacidad de establecer conexiones internas y enlazar dos sistemas o dispositivos entre sí.
+3. ¿Cuál es la diferencia entre INTERNETWORK E INTERNET?
+* Internet es una inmensa red global de redes de ordenadores cuya finalidad es permitir el intercambio libre de información entre todos sus usuarios. En cambio, internetwork es la capacidad de establecer conexiones internas y enlazar dos sistemas.
+4. Describir la diferencia entre Tarjeta de interfaz de red (NIC), puerto físico e interfaz de red.
+* Una NIC o adaptador LAN proporciona la conexión física con la red en la computadora personal u otro dispositivo host y la interfaz de red son puertos especializados de un dispositivo de internetworking que se conecta con redes individuales.
+5. ¿Por qué se dice que un protocolo es independiente de la tecnología? 
+* Los protocolos de red describen las funciones que se producen durante las comunicaciones de red. Sin embargo, este protocolo no especifica cómo el emisor debe permanecer en silencio durante dos segundos.
+6. Consultar y explicar brevemente qué es una Unidad de Datos del Protocolo (PDU).
+* Durante la encapsulación, cada capa encapsula las PDU que recibe de la capa inferior de acuerdo con el protocolo que se utiliza.
+7. Explicar la función de los protocolos en las comunicaciones de redes y para qué es el proceso de encapsulamiento de los datos (ilustrar el nombre que adopta cada PDU en cada capa del modelo TCP/IP mediante un dibujo).
+* Datos: el término general para las PDU que se utilizan en la capa de aplicación.
+* Segmento: PDU de la capa de transporte.
+* Paquete: PDU de la capa de Internetwork.
+* Trama: PDU de la capa de acceso a la red
+
+
+  
+
+8. Describir la diferencia entre los modelos de protocolo y modelos de referencia.
+* Un modelo de protocolo proporciona un modelo que coincide fielmente con la estructura de una suite de protocolo en particular. El conjunto jerárquico de protocolos relacionados en una suite representa típicamente toda la funcionalidad requerida para interconectar la red humana con la red de datos. Un modelo de referencia proporciona una referencia común para mantener consistencia en todos los tipos de protocolos y servicios de red. Un modelo de referencia no está pensado para ser una especificación de implementación ni para proporcionar un nivel de detalle suficiente para definir de forma precisa los servicios de la arquitectura de red.
+9. Describir la función de cada capa en los dos modelos de red: TCP/IP y OSI.
+* Los protocolos que forman la suite de protocolos TCP/IP pueden describirse en términos del modelo de referencia OSI. En el modelo OSI, la capa Acceso a la red y la capa Aplicación del modelo TCP/IP están subdivididas para describir funciones discretas que deben producirse en estas capas.
+
+
+
+
+
+
+
+
+
+
+Práctica trabajo colaborativo
+Git es un sistema de control de versiones distribuido, que nos permite trabajar en el equipo local sin necesidad de tener conexión a una red; pero también podemos colaborar con otros usuarios compartiendo los cambios que vamos realizando en un proyecto. 
+
+
+En parejas, crear un repositorio en GitHub y desarrollar de forma colaborativa las preguntas del capítulo 1 y 2. Para entender el trabajo colaborativo en git utilizar el siguiente video explicativo: 
+
+
+GIT / GITHUB [ Tutorial en Español - Parte 1 ] ♥ Inicio Rápido para Principiantes ♥
+
+
+Crear un archivo .txt para responder el cuestionario y subirlo al repositorio remoto. Cada pregunta respondida se debe enviar al repositorio remoto a través de un commit (ver video). Evidenciar el historial de commits en el repositorio remoto.
+
+
+Añadir la url del repositorio al documento de entrega y subirlo al Classroom del curso de manera individual.
